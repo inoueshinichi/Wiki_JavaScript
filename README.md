@@ -6,11 +6,5 @@ Wiki about the below list.
 + HTTPプロトコル
 + HTML
 + CSS
-+ JavaScript
-+ TypeScript
-+ SQLite
-+ MySQL
-+ PostgreSQL
-+ Django
 
 詳細はWikiに記載
