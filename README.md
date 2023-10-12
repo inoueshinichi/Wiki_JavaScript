@@ -6,5 +6,10 @@ Wiki about the below list.
 + HTTPプロトコル
 + HTML
 + CSS
++ JavaScript
++ TypeScrip
++ React
++ Electron
++ ReactNative
 
 詳細はWikiに記載
