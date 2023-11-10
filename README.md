@@ -10,6 +10,6 @@ Wiki about the below list.
 + TypeScrip
 + React
 + Electron
-+ ReactNative
++ Json
 
 詳細はWikiに記載
