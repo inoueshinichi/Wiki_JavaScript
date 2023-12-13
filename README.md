@@ -4,14 +4,19 @@ Wiki about the below list.
 + Erthernet
 + TCP/UDP/IP
 + NAT
-+ HTTPプロトコル
++ HTTP
 + HTML
 + CSS
++ BootStrap
 + JavaScript
 + TypeScrip
++ Webpack
++ Babel
 + React
++ React-Router
 + Electron
-+ Json
-+ 主なHTMLボディのエンコード方式(application/x-www-form-urlencoded, multipart/form-data, application/json)
++ JSON
++ HTMLペイロードのエンコード方式
++ バイナリデータのBase64文字列エンコード(for JSON)
 
 詳細はWikiに記載
